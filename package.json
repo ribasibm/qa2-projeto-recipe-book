@@ -1,0 +1,22 @@
+{
+  "name": "qa2-projeto-recipe-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ribasibm/qa2-projeto-recipe-book.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ribasibm/qa2-projeto-recipe-book/issues"
+  },
+  "homepage": "https://github.com/ribasibm/qa2-projeto-recipe-book#readme"
+}
